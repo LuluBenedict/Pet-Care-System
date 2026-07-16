@@ -1,6 +1,7 @@
 Objective: 
 
-To familiarize with the Django development environment, project structure, applications and URL configurations. 
+To familiarize with the Django development environment, project structure, applications and URL configurations 
+To implement models and perform database configurations
 
 What was done: 
 
